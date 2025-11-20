@@ -15,8 +15,8 @@ export default function Header() {
 
         
         <div className="flex gap-10 text-2xl font-medium">
-          <a className="hover:text-yellow-300 transition-colors cursor-pointer">Contacto</a>
-          <a className="hover:text-yellow-300 transition-colors cursor-pointer">Conócenos</a>
+          <a className="hover:text-blue-500 transition-colors cursor-pointer">Contacto</a>
+          <a className="hover:text-green-900 transition-colors cursor-pointer">Conócenos</a>
           <a className="hover:text-yellow-300 transition-colors cursor-pointer">Trabaja</a>
           <a className="hover:text-yellow-300 transition-colors cursor-pointer">Productos</a>
         </div>
