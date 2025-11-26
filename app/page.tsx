@@ -1,16 +1,16 @@
 import Image from "next/image";
 import Header from "./Componentes/Header";
-import Footer from "./Componentes/Footer";
+import Footer from "./Componentes/footer";
 
 
 
 
 export default function Home() {
   return (
-  <div>
-   <Header  />
+  <>
+   <Header/>
    <Footer/>
 
-   </div>
+   </>
   );
 }
